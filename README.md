@@ -1,3 +1,3 @@
 # first-demo
-this is my first git repository
-Author-krishna Arjaiya
+this is my first git repository.
+Author-krishna Arjariya
